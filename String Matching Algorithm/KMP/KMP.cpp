@@ -1,7 +1,7 @@
 /**
 Knuth Morris Pratt aka KMP Algorithm
 
-Thanks to - Niloy Datta from Jahangirnagar University for teaching this awesome algorithm
+Thanks to - Raihat Zaman Niloy from Jahangirnagar University for teaching this awesome algorithm
 
 And also thanks to Tushar Roy from youtube
 
