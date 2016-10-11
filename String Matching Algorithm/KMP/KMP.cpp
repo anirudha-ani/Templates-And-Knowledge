@@ -9,6 +9,12 @@ Resource -
 
 Part 1 - https://www.youtube.com/watch?v=GTJr8OvyEVQ
 Part 2 - https://www.youtube.com/watch?v=KG44VoDtsAA
+
+What does this algorithm do ?
+
+- This algorithm takes a particular range of a string from the starting index and tells what is the highest
+length of Suffix which is matched with the Prefix within this range
+
 **/
 
 #include <bits/stdc++.h>
