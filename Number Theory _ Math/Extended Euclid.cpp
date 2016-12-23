@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
-
+//Source : http://www.progkriya.org/gyan/basic-number-theory.html
 using namespace std;
 
 typedef pair<int, int> pii;
