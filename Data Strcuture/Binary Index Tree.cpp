@@ -2,6 +2,8 @@
 
 using namespace std;
 
+//Tarif Ezaz taught me this . Contest link - https://vjudge.net/contest/103847#overview
+
 void update(vector<int> *data ,  int index ,int value)
 {
     while(index < data->size())
