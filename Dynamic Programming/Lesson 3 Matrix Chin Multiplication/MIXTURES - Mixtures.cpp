@@ -1,6 +1,6 @@
 /**
     Problem Link - http://www.spoj.com/problems/MIXTURES/
-    Solving Technique - Matrix Chin Multiplication
+    Solving Technique - Matrix Chain Multiplication
     Learning Source - http://www.shafaetsplanet.com/planetcoding/?p=1885
 **/
 
